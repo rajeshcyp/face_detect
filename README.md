@@ -1,3 +1,17 @@
+# Description
+
+ReactJS app using Clarifai API for face detection \
+tachyons package for css
+
+# Demo 
+
+https://rajeshcyp.github.io/face_detect/
+
+Enter an image URL and press DETECT button. 
+The application should identify if there are any faces in the images
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
