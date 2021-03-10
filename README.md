@@ -1,6 +1,6 @@
 # Description
 
-ReactJS app using Clarifai API for face detection
+ReactJS app using Clarifai API for face detection \
 tachyons package for css
 
 # Demo 
