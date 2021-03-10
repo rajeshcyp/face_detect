@@ -1,15 +1,11 @@
 import React from 'react'; 
 import './ImageLinkForm.css'; 
+import Logo from '../Logo/Logo'
 
 const ImageLinkForm = ({onInputChange, onButtonSubmit}) => {
 	return (
 		<div> 
-			<p className="f2 b mt5 mb2 helvetica light-purple washed-green">
-			{'[ face.detect ]'}
-			</p>
-			<p className="f4 mt1 mb5 helvetica gold">
-			{'detect faces in images'}
-			</p>
+			<Logo />
 			<div className='center'>
 				<div className ='center form pa4 br3 shadow-5'> 
 					<input className='f4 pa2 w-70 center1 b--gold' type='text' placeHolder='Enter an image URL here ..' onChange={onInputChange} /> 
