@@ -1,7 +1,9 @@
 # Description
 
 ReactJS app using Clarifai API for face detection \
-tachyons package for css
+tachyons package for css \
+Identifies multiple faces \
+Works on graphic images too
 
 # Demo 
 
